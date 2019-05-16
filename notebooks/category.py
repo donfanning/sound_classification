@@ -1,0 +1,1 @@
+{'right': 0, 'eight': 1, 'cat': 2, 'tree': 3, 'bed': 4, 'happy': 5, 'go': 6, 'dog': 7, 'no': 8, 'wow': 9, 'nine': 10, 'left': 11, 'stop': 12, 'three': 13, '_background_noise_': 14, 'sheila': 15, 'one': 16, 'bird': 17, 'zero': 18, 'seven': 19, 'up': 20, 'marvin': 21, 'two': 22, 'house': 23, 'down': 24, 'six': 25, 'yes': 26, 'on': 27, 'five': 28, 'off': 29, 'four': 30}
